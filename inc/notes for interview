@@ -1,0 +1,116 @@
+Angular Material Design
+
+what is it?
+	-Involve the user in the interactions they are having in the app (mobile)
+	-interactive UI and UX
+How to get started
+	-install on command line
+	-reference package
+What it does
+	-Gives you a library of code preCompilled 
+	-adds a property set to you HTML to reference Angular style
+//Angular is an excellent framework for developing a user forward UI to 
+//database driven software. An aspect I see under valued alot more these days
+//is usability I would say is comperable to functionality
+	SQL database Unit Testing
+What is it?
+	-visual studio
+	-Validates database
+	-Insures changes do not affect functionality
+How to get Started
+	-right click prosedure
+	-start unit test (visual basic)
+	-secondary cridentials
+	-test explorer->run unit test
+What it does
+	-	There is a pre test and a pro test
+	-	Helps validate CRUD functionallity 
+	-	use SQL to check both sides of the db processing
+	-				
+//this is a pinical part of test driven development. insures that 
+//database/server side infistructure is scaleable and changes wont affect
+//the systems functionality 
+
+
+	end to end testing Angular
+What is it?
+	-end to end testing framework
+	-
+	-
+how to get started
+	-
+	-
+	-
+what it does
+	-
+	-
+	-		
+//I am familiar with the process it entails setting up unit teset using angular to simulate
+//failable scenarios and applying them directly to a database
+
+git source control
+	-Is the best
+	-A type of Source controll platform
+	-runs off a command linn
+	-allows for multipul developers to add to (or commit) code to the main project branch
+	-The command line 
+	-is seriously the best
+
+	SQL
+//git source control is the best thing to happen since development grew beyound a one man scope
+//git allows a structured way for multipul developers or even departments to contribute to a project
+//in an affective and automated way minimizing conflict and overwrites
+
+
+//what is oop
+Object Oriented Programming is a _____ that allows for excellent orginization and keeps code DRY and reusable.
+talk about CLasses instantiating properties and methods interfaces and compare it to presedual 
+
+//whats the difference class vs interface
+
+
+//What is MVC
+Model- Business/data access logic 
+View - the markup the physical
+Control - controllers tie the visual and functionality (go back to OOP)
+
+//how does php session work
+the Global variable $_session creates a unique id that stores session time variables of user data.
+
+//big changes in php
+5.0 released Object oriented Model
+Namespacing 5.3
+
+//difference between $_GET and $_POST
+get produces the input look at http
+
+public-> available to all children objects
+protected-> available but the value cannot be changed
+private-> only available in the scope of the class
+
+Polymorphism-> the ability to shape many objects from one class 
+
+how to load classes __autoload
+
+Scope resolution operator
+:: dont need to instatiate an object to call a method it is a stand alone method within a class that does not
+affect any properties
+
+what does ob_start
+//it stops the output buffering 
+
+talking about my experience
+
+some sites including scratch and wordpress using bootstrap and api integration
+
+Magic methods
+__construct
+__destruct
+__get__
+__set__
+
+Laravel is a set of php files that facilitates programming with php
+it orginizes application files with MVC logic, handles routing and http request
+and for the most part an application built on this framework will never have to process 
+data straight from the server allowing for a more secure, scaleable and responsive product
+
